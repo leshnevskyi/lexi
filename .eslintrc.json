@@ -51,6 +51,7 @@
 		}],
 		"eol-last": "error",
 		"max-len": ["error", {"code": 80}],
-		"jsx-quotes": ["error", "prefer-single"]
+		"jsx-quotes": ["error", "prefer-single"],
+		"comma-spacing": ["warn", {"before": false, "after": true}]
 	}
 }
